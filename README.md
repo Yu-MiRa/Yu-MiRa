@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yu-MiRa
 - 👀 Life is short, have fun!
 - ✨ Enjoy the nature 
-- 
+
 
 <!---
 Yu-MiRa/Yu-MiRa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
